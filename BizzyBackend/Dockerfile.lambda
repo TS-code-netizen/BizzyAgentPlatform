@@ -1,0 +1,10 @@
+FROM public.ecr.aws/lambda/python:3.12@sha256:93ffd196f8f7698a506e7b6f442488f563adf9b45ad589bcfff57ce6b9ad4d62
+ARG BACKEND_COMMIT=unknown
+LABEL org.opencontainers.image.revision=$BACKEND_COMMIT
+COPY requirements.txt ${LAMBDA_TASK_ROOT}/requirements.txt
+RUN pip install --no-cache-dir -r ${LAMBDA_TASK_ROOT}/requirements.txt
+COPY backend ${LAMBDA_TASK_ROOT}/backend
+COPY docker/data-manifest.json ${LAMBDA_TASK_ROOT}/data-manifest.json
+ADD docker/bizzydata-demo.tar.gz ${LAMBDA_TASK_ROOT}/data/demo/
+ENV BIZZY_DATA_DIR=/var/task/data/demo BIZZY_AS_OF_DATE=2026-09-23 PYTHONDONTWRITEBYTECODE=1
+CMD ["backend.lambda_handler.handler"]

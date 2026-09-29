@@ -1,0 +1,5 @@
+invoice_id,customer_id,customer,issue_date,due_date,amount,paid_amount,outstanding_amount,currency,status,as_of_date
+INV001,CUS001,Demo Customer 1,2026-08-01,2026-09-01,100.00,20.00,80.00,SGD,partially_paid,2026-09-23
+INV002,CUS002,Demo Customer 2,2026-08-10,2026-09-10,200.00,0.00,200.00,SGD,overdue,2026-09-23
+INV003,CUS003,Demo Customer 3,2026-09-20,2026-09-23,300.00,0.00,300.00,SGD,unpaid,2026-09-23
+INV004,CUS004,Demo Customer 4,2026-07-01,2026-08-01,100.00,100.00,0.00,SGD,paid,2026-09-23

@@ -1,0 +1,20 @@
+{
+  "source": "BizzyBeeAI/BizzyData@6e07ba26732e3c5eff561bef88128e266f16ad26",
+  "as_of": "2026-09-23",
+  "archive_sha256": "d9acbbf4a81392efea474e3dd698349a895da2224249b448e13cbe2f9c86a3b7",
+  "files": {
+    "accounting_ledger.csv": "d30956136483e075a4871b73b9d7a1cec00005d8f4cefd6613c947cc584dd239",
+    "accounts.csv": "f17a60fb7d7a2533c3bdd6473169391e4b1d5d2e90f4638fbf84501944240012",
+    "customer_enquiries.csv": "c55f91f725365cc727a64b5b570dd9fe1fdce7776bbbab421d9cb66155c114e0",
+    "customer_feedback.csv": "b9ec5e744c46ce5e516d40551bc69725f489f84bd878819c455944e6870e21b4",
+    "inventory.csv": "e50dcf922ff4f962747e3570583e8f2724828a089a9a3e86c31ee6a5b4c27790",
+    "inventory_history.csv": "97638ea43bd140f72f04bf3aca20883f19c658fb50deef84d1460cce4e675a97",
+    "invoices.csv": "de0c5752d3ca2d8eab5b33804c02d3a6ca0b89f620cc802316a19ae64565e955",
+    "payments.csv": "b22052ea019a5cca8bcb106c595538a2253eec271608bc48122fac80fcebceba",
+    "products.csv": "53d9b1386500cd25a3dea9693eefbc8fd58b9d74f02e6e222b3f047c5909cc25",
+    "refunds.csv": "a5ba007836829e88ccee21a9d1cf33ba74c3878edc73e3873777fb29a3b5c510",
+    "returns.csv": "b2f89d040c2869c1823619e49f6e878dac12d3fef0821040b7a2653f5641dac3",
+    "sales.csv": "8a89541fd78d09aed303c385228359cb96ae4f0b7ff7f2d4523f213b0bec27b3",
+    "scenario_expectations.csv": "420d5759c53ab7b55aa02f16340ab38b2b5f5a225764ae07743ebe707e68a344"
+  }
+}

@@ -1,0 +1,11 @@
+refund_id,return_id,refund_date,amount,currency,data_origin
+REF-001,RET-001,2026-06-05,25.00,SGD,synthetic
+REF-002,RET-002,2026-06-08,25.00,SGD,synthetic
+REF-003,RET-003,2026-06-10,25.00,SGD,synthetic
+REF-004,RET-004,2026-06-11,25.00,SGD,synthetic
+REF-005,RET-005,2026-06-13,50.00,SGD,synthetic
+REF-006,RET-006,2026-06-14,25.00,SGD,synthetic
+REF-007,RET-007,2026-06-14,30.00,SGD,synthetic
+REF-008,RET-008,2026-06-14,25.00,SGD,synthetic
+REF-009,RET-009,2026-06-07,18.00,SGD,synthetic
+REF-010,RET-010,2026-06-14,18.00,SGD,synthetic

@@ -1,0 +1,4 @@
+product_id,product,current_stock,reorder_level,lead_time,supplier_id,supplier,as_of_date,next_expected_receipt_date,stock_value
+PRD001,Product A - Premium Blender,0,30,4,SUP001,Demo Supplier 01,2026-09-23,2026-09-28,0.00
+PRD002,Storage Box Model 02,12,12,7,SUP002,Demo Supplier 02,2026-09-23,,576.00
+PRD003,Insulated Bottle Model 03,60,60,5,SUP003,Demo Supplier 03,2026-09-23,,1800.00

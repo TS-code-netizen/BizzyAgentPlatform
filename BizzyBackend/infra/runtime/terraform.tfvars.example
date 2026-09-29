@@ -1,0 +1,13 @@
+image_digest     = "sha256:REPLACE_WITH_TESTED_IMAGE_DIGEST"
+enable_inference = false
+enable_github_deployment = false
+model_id         = "apac.amazon.nova-micro-v1:0"
+model_arns = [
+  "arn:aws:bedrock:ap-southeast-1:524097108092:inference-profile/apac.amazon.nova-micro-v1:0",
+  "arn:aws:bedrock:ap-southeast-1::foundation-model/amazon.nova-micro-v1:0",
+  "arn:aws:bedrock:ap-southeast-2::foundation-model/amazon.nova-micro-v1:0",
+  "arn:aws:bedrock:ap-northeast-1::foundation-model/amazon.nova-micro-v1:0",
+  "arn:aws:bedrock:ap-northeast-2::foundation-model/amazon.nova-micro-v1:0",
+  "arn:aws:bedrock:ap-northeast-3::foundation-model/amazon.nova-micro-v1:0",
+  "arn:aws:bedrock:ap-south-1::foundation-model/amazon.nova-micro-v1:0",
+]

@@ -1,0 +1,2 @@
+invoice_id,customer,amount,due_date,status
+INV-1001,Acme Pte,1200,2026-09-18,overdue

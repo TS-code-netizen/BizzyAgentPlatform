@@ -1,0 +1,2 @@
+workflow_id,user,agent,evidence,action,risk,approval,outcome
+wf-1,demo-owner,inventory,current_stock=14,prepare_purchase_order,AMBER,pending,created

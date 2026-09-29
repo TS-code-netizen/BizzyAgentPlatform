@@ -1,0 +1,5 @@
+bucket       = "bizzybee-poc-tfstate-524097108092"
+key          = "runtime/terraform.tfstate"
+region       = "ap-southeast-1"
+encrypt      = true
+use_lockfile = true

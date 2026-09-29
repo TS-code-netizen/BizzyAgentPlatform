@@ -1,0 +1,38 @@
+sale_id,date,product_id,product,quantity,revenue,cost_of_goods_sold,channel
+S001,2026-09-09,PRD001,Product A - Premium Blender,3,300.00,180.00,web
+S002,2026-09-10,PRD001,Product A - Premium Blender,3,300.00,180.00,web
+S003,2026-09-10,PRD002,Storage Box Model 02,5,400.00,240.00,store
+S004,2026-09-10,PRD003,Insulated Bottle Model 03,10,500.00,250.00,marketplace
+S005,2026-09-11,PRD001,Product A - Premium Blender,3,300.00,180.00,web
+S006,2026-09-11,PRD002,Storage Box Model 02,5,400.00,240.00,store
+S007,2026-09-11,PRD003,Insulated Bottle Model 03,10,500.00,250.00,marketplace
+S008,2026-09-12,PRD001,Product A - Premium Blender,3,300.00,180.00,web
+S009,2026-09-12,PRD002,Storage Box Model 02,5,400.00,240.00,store
+S010,2026-09-12,PRD003,Insulated Bottle Model 03,10,500.00,250.00,marketplace
+S011,2026-09-13,PRD001,Product A - Premium Blender,3,300.00,180.00,web
+S012,2026-09-13,PRD002,Storage Box Model 02,5,400.00,240.00,store
+S013,2026-09-13,PRD003,Insulated Bottle Model 03,10,500.00,250.00,marketplace
+S014,2026-09-14,PRD001,Product A - Premium Blender,3,300.00,180.00,web
+S015,2026-09-14,PRD002,Storage Box Model 02,5,400.00,240.00,store
+S016,2026-09-14,PRD003,Insulated Bottle Model 03,10,500.00,250.00,marketplace
+S017,2026-09-15,PRD001,Product A - Premium Blender,3,300.00,180.00,web
+S018,2026-09-15,PRD002,Storage Box Model 02,5,400.00,240.00,store
+S019,2026-09-15,PRD003,Insulated Bottle Model 03,10,500.00,250.00,marketplace
+S020,2026-09-16,PRD001,Product A - Premium Blender,3,300.00,180.00,web
+S021,2026-09-16,PRD002,Storage Box Model 02,5,400.00,240.00,store
+S022,2026-09-16,PRD003,Insulated Bottle Model 03,10,500.00,250.00,marketplace
+S023,2026-09-17,PRD002,Storage Box Model 02,5,400.00,240.00,store
+S024,2026-09-17,PRD003,Insulated Bottle Model 03,10,500.00,250.00,marketplace
+S025,2026-09-18,PRD002,Storage Box Model 02,5,400.00,240.00,store
+S026,2026-09-18,PRD003,Insulated Bottle Model 03,10,500.00,250.00,marketplace
+S027,2026-09-19,PRD002,Storage Box Model 02,5,400.00,240.00,store
+S028,2026-09-19,PRD003,Insulated Bottle Model 03,10,500.00,250.00,marketplace
+S029,2026-09-20,PRD002,Storage Box Model 02,5,400.00,240.00,store
+S030,2026-09-20,PRD003,Insulated Bottle Model 03,10,500.00,250.00,marketplace
+S031,2026-09-21,PRD002,Storage Box Model 02,5,400.00,240.00,store
+S032,2026-09-21,PRD003,Insulated Bottle Model 03,10,500.00,250.00,marketplace
+S033,2026-09-22,PRD002,Storage Box Model 02,5,400.00,240.00,store
+S034,2026-09-22,PRD003,Insulated Bottle Model 03,10,500.00,250.00,marketplace
+S035,2026-09-23,PRD002,Storage Box Model 02,5,400.00,240.00,store
+S036,2026-09-23,PRD003,Insulated Bottle Model 03,10,500.00,250.00,marketplace
+S037,2026-09-24,PRD003,Insulated Bottle Model 03,10,500.00,250.00,marketplace

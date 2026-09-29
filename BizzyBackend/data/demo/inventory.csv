@@ -1,0 +1,2 @@
+product,current_stock,reorder_level,lead_time,supplier
+Product A,14,20,3,Supplier One

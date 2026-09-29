@@ -1,0 +1,4 @@
+product_id,product,category,supplier_id,unit_price,unit_cost
+PRD001,Product A - Premium Blender,Kitchen,SUP001,100.00,60.00
+PRD002,Storage Box Model 02,Kitchen,SUP002,80.00,48.00
+PRD003,Insulated Bottle Model 03,Outdoor,SUP003,50.00,25.00

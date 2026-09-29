@@ -1,0 +1,11 @@
+feedback_id,product_id,feedback_date,feedback_type,reason,affected_quantity,return_id,data_origin
+FB-A-001,P-A,2026-06-03,complaint,packaging_damage,1,RET-001,synthetic
+FB-A-002,P-A,2026-06-06,complaint,packaging_damage,1,RET-002,synthetic
+FB-A-003,P-A,2026-06-08,complaint,packaging_damage,1,RET-003,synthetic
+FB-A-004,P-A,2026-06-09,complaint,packaging_damage,1,RET-004,synthetic
+FB-A-005,P-A,2026-06-11,complaint,packaging_damage,2,RET-005,synthetic
+FB-A-006,P-A,2026-06-12,complaint,packaging_damage,1,RET-006,synthetic
+FB-A-007,P-A,2026-06-13,complaint,size_issue,1,RET-007,synthetic
+FB-A-008,P-A,2026-06-14,complaint,packaging_damage,1,RET-008,synthetic
+FB-B-001,P-B,2026-06-05,complaint,missing_component,1,RET-009,synthetic
+FB-B-002,P-B,2026-06-12,complaint,missing_component,1,RET-010,synthetic

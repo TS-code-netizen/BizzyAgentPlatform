@@ -1,0 +1,11 @@
+return_id,product_id,return_date,reason,data_origin
+RET-001,P-A,2026-06-04,packaging_damage,synthetic
+RET-002,P-A,2026-06-07,packaging_damage,synthetic
+RET-003,P-A,2026-06-09,packaging_damage,synthetic
+RET-004,P-A,2026-06-10,packaging_damage,synthetic
+RET-005,P-A,2026-06-12,packaging_damage,synthetic
+RET-006,P-A,2026-06-13,packaging_damage,synthetic
+RET-007,P-A,2026-06-14,size_issue,synthetic
+RET-008,P-A,2026-06-14,packaging_damage,synthetic
+RET-009,P-B,2026-06-06,missing_component,synthetic
+RET-010,P-B,2026-06-13,missing_component,synthetic

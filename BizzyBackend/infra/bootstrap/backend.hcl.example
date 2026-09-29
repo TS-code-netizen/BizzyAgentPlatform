@@ -1,0 +1,6 @@
+bucket              = "bizzybee-poc-tfstate-524097108092"
+key                 = "bootstrap/terraform.tfstate"
+region              = "ap-southeast-1"
+encrypt             = true
+use_lockfile        = true
+allowed_account_ids = ["524097108092"]
